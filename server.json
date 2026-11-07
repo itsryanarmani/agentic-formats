@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.pooriaarab/agentic-formats",
+  "name": "io.github.itsryanarmani/agentic-formats",
   "description": "Read and write open office files: ODF and OOXML for documents, spreadsheets, and slides.",
   "version": "0.4.4",
   "repository": {
