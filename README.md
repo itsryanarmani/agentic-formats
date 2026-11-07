@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/agentic-formats)](https://www.npmjs.com/package/agentic-formats)
 [![MIT license](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/license/mit)
 
-[Package](https://www.npmjs.com/package/agentic-formats) · [Source](https://github.com/pooriaarab/agentic-formats) · [Support](https://github.com/pooriaarab/agentic-formats/issues)
+[Package](https://www.npmjs.com/package/agentic-formats) · [Source](https://github.com/itsryanarmani/agentic-formats) · [Support](https://github.com/itsryanarmani/agentic-formats/issues)
 
 Read and write open office files: ODF and OOXML for documents, spreadsheets, and slides.
 

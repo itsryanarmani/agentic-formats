@@ -4,7 +4,7 @@
   "description": "Read and write open office files: ODF and OOXML for documents, spreadsheets, and slides.",
   "version": "0.4.4",
   "repository": {
-    "url": "https://github.com/pooriaarab/agentic-formats",
+    "url": "https://github.com/itsryanarmani/agentic-formats",
     "source": "github",
     "id": 0
   },

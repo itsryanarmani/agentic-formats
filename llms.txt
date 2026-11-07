@@ -11,5 +11,5 @@ Keywords: odf,ooxml,odt,ods,odp,docx,xlsx,pptx,office,documents,import,export,ag
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-formats
+- README: https://github.com/itsryanarmani/agentic-formats
 - License: MIT
